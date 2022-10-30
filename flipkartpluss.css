@@ -1,0 +1,42 @@
+body{
+    background-color: whitesmoke;
+}
+
+.body_header{
+    display: flex;
+    flex-direction: column;
+}
+
+.body_header > p {
+    margin-top: -10px;
+}
+
+#first_p{
+    color: blue;
+}
+
+#second_p{
+    color: gold;
+    margin-left: 22px;
+}
+
+.body_top_half{
+    display: flex;
+    flex-direction: column;
+}
+
+.body_top_half > img {
+    margin-top: 10px;
+}
+
+.body_input{
+    width: 120px;
+}
+
+.body_images > img{
+    margin-left: 10px;
+}
+
+.body_bottom_half > img{
+    margin-left: 10px;
+}
